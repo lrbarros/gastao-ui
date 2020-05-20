@@ -27,7 +27,7 @@
               "node_modules/primeng/resources/themes/nova-light/theme.css",
               "node_modules/primeng/resources/primeng.min.css",
               "node_modules/primeicons/primeicons.css",
-               "src/styles.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gastao-ui"
+    }
+  },
+  "defaultProject": "gastao-ui",
+  "cli": {
+    "analytics": "04a54768-f109-4291-95df-ac32b22099bd"
+  }
 }
